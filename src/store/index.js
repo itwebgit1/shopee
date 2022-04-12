@@ -12,8 +12,8 @@ const state = {
 
 export default new Vuex.Store({
   state,
-	actions,
-	getters,
-	modules,
-	mutations
+  actions,
+  getters,
+  modules,
+  mutations
 })
